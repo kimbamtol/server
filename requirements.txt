@@ -1,0 +1,6 @@
+#가상환경 설치해서 진행하시는걸 추천드려요
+#python 3.8
+#ultralytics
+#wheel
+#opencv-python
+#pip install firebase-admin
